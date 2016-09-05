@@ -1,2 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
   When you are working from a different computer.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Forks: When you are taking someone else's file to modify in some way.
+  Clone: When you are taking an exact replica of someone else's repository.
+  Branches: A side path off of the master path. 
